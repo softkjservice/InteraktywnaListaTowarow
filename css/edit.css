@@ -1,0 +1,61 @@
+@CHARSET "UTF-8";
+.btn-success {
+    background-color: black;
+	font-size: 5em;
+	display: inline;
+}
+.btn-success:hover{
+	background-color: #1F4517;
+}
+
+.btn-default{
+	background-color: #20673D;
+	 padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+.btn{
+	 padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+.modal-body {
+	width: 100%;
+	padding: 0px 16px;
+	background-color: #20673D;
+	color: white;
+}
+
+.form-control{
+		font-size: 350%;	
+		height: 1.8em;
+		width: 96%;
+		margin: auto;
+		background-color: #2F3732;
+		color: white;
+		
+	}
+.form-control_01{
+		font-size: 480%;	
+		height: 1.8em;
+		border: 2px solid #a5cda5;
+	}
+	
+input[type=search] {
+    font-size: 350%;
+	background-color: white;
+	color: black;
+}
+.input-sm{
+	background-color: white;
+	color: black;
+}
+
+.modal-footer {
+    padding: 0px ;
+    background-color: black;
+    color: white;
+	margin: 0px 0px 0px 0px ;
+}
+.modal-dialog {
+    
+    margin: 0px 0px 50px 0px !important;
+}

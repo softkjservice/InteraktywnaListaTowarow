@@ -1,0 +1,220 @@
+@CHARSET "UTF-8";
+td, th{
+		 font-size: 350%;
+	}
+.classes.sFilterInput{
+		font-size: 350%;
+	}
+.paginate_button{
+		font-size: 350%;			
+	}
+.dataTables_info{
+		font-size: 200%;
+	}
+
+.dataTables_length{
+		font-size: 350%;
+	}
+.buttonDodaj{
+		font-size: 350%;
+	}
+
+			
+table { 
+		  width: 100%; 
+		  border-collapse: collapse; 
+	}
+			/* Zebra striping */
+tr:nth-of-type(odd) { 
+	  background: # eee; 
+}
+th { 
+	  background: #333; 
+	  color: white; 
+	  font-weight: bold; 
+}
+td, th { 
+	  padding: 6px; 
+	  border: 1px solid #ccc; 
+	  text-align: left; 
+	  font-size: 50px;
+}
+.fontEdit{
+		font-size: 50px;
+		
+	}
+	
+	
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* The Edit Button */
+.btn-success{
+	width: 100%;
+	font-size: 250%;
+	}
+
+.btn-default{
+	width: 100%;
+	font-size: 250%;
+	}
+	
+	
+	
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */ 
+ /* padding-top: 100px;  Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,1); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  background-color: #fefefe;
+  
+  margin: auto;
+  padding: 0;
+  border: 1px solid #888;
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+
+
+/* The Close Button */
+.close {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-header {
+  padding: 2px 16px;
+  /*background-color: #5cb85c;*/
+  background-color: #808080;
+  color: red;
+}
+
+.modal-body {
+	padding: 2px 16px;
+	background-color: #000000;
+	color: white;
+}
+
+.modal-footer {
+  padding: 2px 16px;
+  background-color: #5cb85c;
+  color: white;
+}
+
+input{
+	font-size: 5em;
+    color: blue;
+   
+     height:1.5em;
+    background-color: #ffffff;
+   
+}
+.form-control{
+	font-size: 50px;
+	 height: 1.5em;
+	
+}
+
+.close{
+	color: blue importent!;
+	 font-size: 60px;
+	
+}
+
+.btn-success{
+	font-size: 5em;
+	display: inline;
+	
+}
+.btn-default{
+	font-size: 5em;
+}
+	
+.displayFlex{
+	display: flex;
+}
+
+.width_05{
+	width: 50%;
+}
+.width_05:hover{
+	background-color: #1F4517;
+}
+
+.width_03{
+	min-width: 33%;
+	pudding: 10px;
+	font-size: 5em;
+	border-radius: 12px;
+	/*background-color: #A6CB9D;*/
+	background-color: black;
+	color: white;
+}
+.width_03:hover{
+	background-color: #1F4517;
+}
+
+.selectClass{
+	font-size:50px;
+}
+.btnDodaj{
+	font-size: 5em;
+	width : 80%;
+	border-style : solid;
+	 border-color: black;
+	 border-width: 5px;
+	 background-color:#20673D;
+	 color:white;
+	 border-radius: 22px;
+}
+
+
+.modal-title{
+	font-size: 5em;
+	color : white;
+}
+.opisPola{
+	font-size: 25px;
+}
+
+
+
+

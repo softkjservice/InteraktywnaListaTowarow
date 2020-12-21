@@ -1,0 +1,35 @@
+@CHARSET "UTF-8";
+form label {
+  display: inline-block;
+  width: 100px;
+}
+
+form div {
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+  margin-left: 5px;
+}
+
+label.error {
+  display: inline;
+}
+
+.inputForm{
+	color: blue;
+}
+
+.formClass{
+	color: green;
+}
+
+.wymagane {
+	background: red;
+}
+.selectClass{
+	color:black;
+}
+
+	

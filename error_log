@@ -1,0 +1,48 @@
+[28-Jul-2020 09:42:02 Europe/Warsaw] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NIE) in /home/softkj/public_html/demo/Remanent/connection.php:8
+Stack trace:
+#0 /home/softkj/public_html/demo/Remanent/connection.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/softkj/public_html/demo/Remanent/towFetch.php(2): include('/home/softkj/pu...')
+#2 {main}
+  thrown in /home/softkj/public_html/demo/Remanent/connection.php on line 8
+[28-Jul-2020 09:47:08 Europe/Warsaw] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NIE) in /home/softkj/public_html/demo/Remanent/connection.php:8
+Stack trace:
+#0 /home/softkj/public_html/demo/Remanent/connection.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/softkj/public_html/demo/Remanent/towFetch.php(2): include('/home/softkj/pu...')
+#2 {main}
+  thrown in /home/softkj/public_html/demo/Remanent/connection.php on line 8
+[28-Jul-2020 14:18:04 Europe/Warsaw] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NIE) in /home/softkj/public_html/demo/Remanent/connection.php:8
+Stack trace:
+#0 /home/softkj/public_html/demo/Remanent/connection.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/softkj/public_html/demo/Remanent/towFetch.php(2): include('/home/softkj/pu...')
+#2 {main}
+  thrown in /home/softkj/public_html/demo/Remanent/connection.php on line 8
+[28-Jul-2020 14:18:29 Europe/Warsaw] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NIE) in /home/softkj/public_html/demo/Remanent/connection.php:8
+Stack trace:
+#0 /home/softkj/public_html/demo/Remanent/connection.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/softkj/public_html/demo/Remanent/towFetch.php(2): include('/home/softkj/pu...')
+#2 {main}
+  thrown in /home/softkj/public_html/demo/Remanent/connection.php on line 8
+[28-Jul-2020 14:20:40 Europe/Warsaw] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NIE) in /home/softkj/public_html/demo/Remanent/connection.php:8
+Stack trace:
+#0 /home/softkj/public_html/demo/Remanent/connection.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/softkj/public_html/demo/Remanent/towFetch.php(2): include('/home/softkj/pu...')
+#2 {main}
+  thrown in /home/softkj/public_html/demo/Remanent/connection.php on line 8
+[28-Jul-2020 14:21:10 Europe/Warsaw] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NIE) in /home/softkj/public_html/demo/Remanent/connection.php:8
+Stack trace:
+#0 /home/softkj/public_html/demo/Remanent/connection.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/softkj/public_html/demo/Remanent/towFetch.php(2): include('/home/softkj/pu...')
+#2 {main}
+  thrown in /home/softkj/public_html/demo/Remanent/connection.php on line 8
+[28-Jul-2020 14:22:52 Europe/Warsaw] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NIE) in /home/softkj/public_html/demo/Remanent/connection.php:8
+Stack trace:
+#0 /home/softkj/public_html/demo/Remanent/connection.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/softkj/public_html/demo/Remanent/towFetch.php(2): include('/home/softkj/pu...')
+#2 {main}
+  thrown in /home/softkj/public_html/demo/Remanent/connection.php on line 8
+[28-Jul-2020 15:42:24 Europe/Warsaw] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NIE) in /home/softkj/public_html/demo/Remanent/connection.php:8
+Stack trace:
+#0 /home/softkj/public_html/demo/Remanent/connection.php(8): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/softkj/public_html/demo/Remanent/towFetch.php(2): include('/home/softkj/pu...')
+#2 {main}
+  thrown in /home/softkj/public_html/demo/Remanent/connection.php on line 8

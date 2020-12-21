@@ -1,0 +1,211 @@
+@CHARSET "UTF-8";
+body
+{
+	margin:0;
+	padding:0;
+	background-color:#red;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.box {
+    width: 100%;
+    padding: 0px;
+    background-color: #E9EAE9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 0px;
+}
+.tyt{
+	color : #EDD163;
+	font: italic 80px Georgia, serif;
+}
+.tyt1{
+	color : #EDD163;
+	font: italic 50px Georgia, serif;
+}
+.tyt2{
+	color : #ffffff;
+	font: italic 40px Georgia, serif;
+}
+.divfull{
+	
+	width : 100%;
+	text-align: center;
+}
+.divlogo{
+	min-width: 100%;
+	background-color:black;
+}
+.divstopka{
+	min-width: 100%;
+	background-color:black;
+	text-align: center;
+}
+::placeholder {
+  font-size:60px;
+}
+:-ms-input-placeholder { 
+	font-size:60px;
+}
+
+::-ms-input-placeholder { 
+ font-size:60px;
+}
+
+.divcenter{
+	text-align: center;
+}
+
+.btnZielony{
+	background-color: #20673D;
+}
+
+.btnCzerwony{
+	background-color: #711705;
+}
+
+divfloatleft{
+	float:left
+}
+.width_90{
+	width: 90%; 
+}
+
+/* przeniesione z pom.css */
+
+.paginate_button{
+		font-size: 350%;	/* rozmiar klawisza stronicowania */		
+	}
+.dataTables_info{
+		font-size: 200%;  /* czcionka informuje o ilości wyświetlanych rekordów */
+	}
+
+.dataTables_length{
+		font-size: 350%;   /* czcionka napisu Show entries */
+	}
+	
+
+			/* Zebra striping */
+tr:nth-of-type(odd) { 
+	  background: # eee; 
+}
+th { 
+padding: 6px; 
+	  border: 1px solid #ccc; 
+	  text-align: left; 
+	  background: black; 
+	  color: white; 
+	  font-weight: bold; 
+	  font-size: 50px;  /* czcionka tytułowa tabeli */
+}
+td { 
+	  padding: 6px; 
+	  border: 1px solid #ccc; 
+	  text-align: left; 
+	  font-size: 50px;  /* wielkość czcionki w tabeli */
+}
+.fontEdit{
+		font-size: 50px; /*wielkość odsyłaczy Edit i Del */
+		
+	}
+
+ /*The Edit Button */
+.btn-success{
+	width: 100%;
+	font-size: 250%;
+	}
+
+	
+	
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */ 
+ /* padding-top: 100px;  Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,1); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  border: 1px solid #888;
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+
+
+.displayFlex{
+	display: flex;  /* Ustawia klawisz Enter i Esc w jednej linii */
+}
+
+.width_05{
+	width: 50%;
+}
+.width_05:hover{
+	background-color: #1F4517;
+}
+
+.width_03{
+	min-width: 33%;
+	pudding: 10px;
+	font-size: 5em;
+	border-radius: 12px;
+	background-color: black;
+	color: white;
+}
+.width_03:hover{
+	background-color: #1F4517;
+}
+
+.selectClass{
+	font-size:50px;
+}
+/* dodaj nowy towar */
+.btnDodaj{
+	font-size: 5em;
+	width : 80%;
+	border-style : solid;
+	 border-color: black;
+	 border-width: 5px;
+	 background-color:#20673D;
+	 color:white;
+	 border-radius: 22px;
+}
+
+.btnDodaj:hover{
+	background-color:#17492B;
+	color: F4F8D6;
+}
+
+table.table-bordered.dataTable tbody th, table.table-bordered.dataTable tbody td {
+    border-bottom-width: 3px;
+	border-color: gray;
+}
+
+.table-bordered{
+	border-width: 5px;
+	border-color: gray;
+}
+
+.input-sm {
+    background-color: white;
+    color: black;
+    font-size: 1em;
+}
+select.input-sm {
+    min-height: 80px;
+    min-width: 100px;
+    font-size: 1em;
+}
